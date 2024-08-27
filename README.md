@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I am a Software Engineer who loves AI/ML.
 
 ## 🚀 Technologies & Tools
 - **Languages**: Python, JavaScript, C++, Java
-- **Frameworks**: REact, Flask, Django
+- **Frameworks**: React
 - **Tools**: [List your tools and software]
 
 ## 🌱 Currently Learning
