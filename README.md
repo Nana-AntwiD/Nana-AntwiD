@@ -1,18 +1,18 @@
 # 👋 Hello, I'm  Nana Antwi Awuah Darkwa!
 
-Welcome to my GitHub profile. I am a [Your Profession/Role] who loves [Your Interests/Skills].
+Welcome to my GitHub profile. I am a Software Engineer who loves AI/ML.
 
 ## 🚀 Technologies & Tools
-- **Languages**: [List your programming languages]
-- **Frameworks**: [List your frameworks]
+- **Languages**: Python, JavaScript, C++, Java
+- **Frameworks**: REact, Flask, Django
 - **Tools**: [List your tools and software]
 
 ## 🌱 Currently Learning
 [Your learning goals]
 
 ## 📫 How to reach me
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: nanadarkwa16@gmail.com
+- LinkedIn: 
 - Twitter: [Your Twitter Handle]
 
 ## 📝 Latest Blog Posts
