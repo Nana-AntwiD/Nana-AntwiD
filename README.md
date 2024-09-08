@@ -1,23 +1,22 @@
-# 👋 Hello, I'm  Nana Antwi Awuah Darkwa!
+👋 Hey, I'm  Nana Antwi Awuah Darkwa!
 
-Welcome to my GitHub profile. I am a Software Engineer who loves AI/ML.
+I am a full stack developer interested in machine learning and backend. 
 
 ## 🚀 Technologies & Tools
-- **Languages**: Python, JavaScript, C++, Java
+- **Languages**: Python, JavaScript, C++,
 - **Frameworks**: React
 - **Tools**: [List your tools and software]
 
 ## 🌱 Currently Learning
-[Your learning goals]
+React and node.js
 
 ## 📫 How to reach me
 - Email: nanadarkwa16@gmail.com
 - LinkedIn: 
-- Twitter: [Your Twitter Handle]
+- Twitter: antwicares
 
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 ## 🏆 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
