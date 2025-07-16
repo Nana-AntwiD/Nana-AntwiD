@@ -1,19 +1,19 @@
 👋 Hey, I'm  Nana Antwi Awuah Darkwa!
 
-I am a full stack developer interested in machine learning and backend. 
+I am a software engineer interested in machine learning and backend. 
 
 ## 🚀 Technologies & Tools
 - **Languages**: Python, JavaScript, C++,
-- **Frameworks**: React
+- **Frameworks**: 
 - **Tools**: [List your tools and software]
 
 ## 🌱 Currently Learning
-React and node.js
+
 
 ## 📫 How to reach me
 - Email: nanadarkwa16@gmail.com
 - LinkedIn: 
-- Twitter: antwicares
+- Twitter: 
 
 ## 📝 Latest Blog Posts
 
