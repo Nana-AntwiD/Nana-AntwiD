@@ -12,8 +12,7 @@ I am a software engineer interested in machine learning and backend.
 
 ## 📫 How to reach me
 - Email: nanadarkwa16@gmail.com
-- LinkedIn: 
-- Twitter: 
+- LinkedIn: https://www.linkedin.com/in/antwi-darkwa/
 
 ## 📝 Latest Blog Posts
 
